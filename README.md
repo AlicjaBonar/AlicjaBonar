@@ -38,5 +38,5 @@
 ---
 
 ### 📫 Contact
-- **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)
+- **LinkedIn:** [linkedin.com/in/alicja-bonar-a04805396/](https://www.linkedin.com/in/alicja-bonar-a04805396/)
 - **Email:** alicja.bonar@gmail.com
