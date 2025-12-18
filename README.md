@@ -11,32 +11,41 @@
 ### 🛠 Tech Stack
 
 **Programming Languages**
-> ![Java](https://img.shields.io/badge/Java-E0F2F1?style=for-the-badge&logo=openjdk&logoColor=00796B)
-> ![Python](https://img.shields.io/badge/Python-E0F2F1?style=for-the-badge&logo=python&logoColor=00796B)
-> ![C++](https://img.shields.io/badge/C++-E0F2F1?style=for-the-badge&logo=c%2B%2B&logoColor=00796B)
-> ![TypeScript](https://img.shields.io/badge/TypeScript-E0F2F1?style=for-the-badge&logo=typescript&logoColor=00796B)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-E0F2F1?style=for-the-badge&logo=javascript&logoColor=00796B)
+
+![Java](https://img.shields.io/badge/Java-AD1457?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AD1457?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-AD1457?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-AD1457?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-AD1457?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 **Backend & Frameworks**
-> ![AdonisJS](https://img.shields.io/badge/AdonisJS-FCE4EC?style=for-the-badge&logo=adonisjs&logoColor=D81B60)
-> ![FastAPI](https://img.shields.io/badge/FastAPI-FCE4EC?style=for-the-badge&logo=fastapi&logoColor=D81B60)
-> ![Flask](https://img.shields.io/badge/Flask-FCE4EC?style=for-the-badge&logo=flask&logoColor=D81B60)
-> ![Node.js](https://img.shields.io/badge/Node.js-FCE4EC?style=for-the-badge&logo=node.js&logoColor=D81B60)
-> ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCE4EC?style=for-the-badge&logo=sqlalchemy&logoColor=D81B60)
+
+![Flask](https://img.shields.io/badge/Flask-AD1457?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-AD1457?style=for-the-badge&logo=fastapi&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-AD1457?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-AD1457?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-AD1457?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 
 **Databases & Frontend**
-> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E3F2FD?style=for-the-badge&logo=postgresql&logoColor=1565C0)
-> ![Oracle](https://img.shields.io/badge/Oracle-E3F2FD?style=for-the-badge&logo=oracle&logoColor=1565C0)
-> ![MSSQL](https://img.shields.io/badge/MSSQL_Server-E3F2FD?style=for-the-badge&logo=microsoft-sql-server&logoColor=1565C0)
-> ![Web_Basics](https://img.shields.io/badge/HTML5_&_CSS3-E3F2FD?style=for-the-badge&logo=html5&logoColor=1565C0)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-AD1457?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-AD1457?style=for-the-badge&logo=oracle&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL_Server-AD1457?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![HTML5 & CSS3](https://img.shields.io/badge/HTML5_&_CSS3-AD1457?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlicjaBonar&show_icons=true&theme=vaughn&bg_color=ffffff&title_color=D81B60&icon_color=00796B&text_color=555555&border_color=E0F2F1" alt="Alicja's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlicjaBonar&show_icons=true&theme=vaughn&bg_color=ffffff&title_color=D81B60&icon_color=00796B&text_color=555555&border_color=E0F2F1" alt="Alicja's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicjaBonar&layout=compact&theme=vaughn&bg_color=ffffff&title_color=D81B60&text_color=555555&border_color=E0F2F1" alt="Most Used Languages" />
+</p>
 ---
 
 ### 📫 Contact
