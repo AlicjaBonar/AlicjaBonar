@@ -1,41 +1,44 @@
-# Hi, I'm Alicja! 👋
+<div align="center">
 
-### 🎓 About Me
-I am an **Applied Computer Science student at Wrocław University of Science and Technology (PWr)**. My academic background and projects focus on backend engineering, data management, and building robust software solutions. I enjoy solving complex logic problems and optimizing database performance.
+# Hi I'm Alicja Bonar ✨
+### Applied Computer Science Student 
+**Wrocław University of Science and Technology**
 
-- 🔭 **Currently working on:** [Name of your main project]
-- 🌱 **Expanding my skills in:** TypeScript & FastAPI
-- 🏫 **University:** Wrocław University of Science and Technology
-- ⚡ **Interests:** System Architecture, Database Optimization, and Backend Scalability
 
-### 🛠 Tech Stack & Tools
+---
+</div>
 
-**Programming Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 🛠 Tech Stack
 
-**Backend & Frameworks:**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+**Programming Languages**
+> ![Java](https://img.shields.io/badge/Java-E0F2F1?style=for-the-badge&logo=openjdk&logoColor=00796B)
+> ![Python](https://img.shields.io/badge/Python-E0F2F1?style=for-the-badge&logo=python&logoColor=00796B)
+> ![C++](https://img.shields.io/badge/C++-E0F2F1?style=for-the-badge&logo=c%2B%2B&logoColor=00796B)
+> ![TypeScript](https://img.shields.io/badge/TypeScript-E0F2F1?style=for-the-badge&logo=typescript&logoColor=00796B)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-E0F2F1?style=for-the-badge&logo=javascript&logoColor=00796B)
 
-**Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MSSQL Server](https://img.shields.io/badge/MSSQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+**Backend & Frameworks**
+> ![AdonisJS](https://img.shields.io/badge/AdonisJS-FCE4EC?style=for-the-badge&logo=adonisjs&logoColor=D81B60)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-FCE4EC?style=for-the-badge&logo=fastapi&logoColor=D81B60)
+> ![Flask](https://img.shields.io/badge/Flask-FCE4EC?style=for-the-badge&logo=flask&logoColor=D81B60)
+> ![Node.js](https://img.shields.io/badge/Node.js-FCE4EC?style=for-the-badge&logo=node.js&logoColor=D81B60)
+> ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCE4EC?style=for-the-badge&logo=sqlalchemy&logoColor=D81B60)
 
-**Frontend Basics:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Databases & Frontend**
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E3F2FD?style=for-the-badge&logo=postgresql&logoColor=1565C0)
+> ![Oracle](https://img.shields.io/badge/Oracle-E3F2FD?style=for-the-badge&logo=oracle&logoColor=1565C0)
+> ![MSSQL](https://img.shields.io/badge/MSSQL_Server-E3F2FD?style=for-the-badge&logo=microsoft-sql-server&logoColor=1565C0)
+> ![Web_Basics](https://img.shields.io/badge/HTML5_&_CSS3-E3F2FD?style=for-the-badge&logo=html5&logoColor=1565C0)
 
-### 📊 GitHub Stats
-![Alicja's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlicjaBonar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlicjaBonar&layout=compact&theme=radical)
+---
 
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/alicja-bonar-a04805396](https://www.linkedin.com/in/alicja-bonar-a04805396/)
-- **Email:** [your-email@student.pwr.edu.pl]
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlicjaBonar&show_icons=true&theme=vaughn&bg_color=ffffff&title_color=D81B60&icon_color=00796B&text_color=555555&border_color=E0F2F1" alt="Alicja's GitHub stats" />
+</p>
+
+---
+
+### 📫 Contact
+- **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)
+- **Email:** alicja.bonar@gmail.com
